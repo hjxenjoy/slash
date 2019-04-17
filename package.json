@@ -1,0 +1,20 @@
+{
+  "name": "slash",
+  "version": "1.0.0",
+  "description": "Utils with Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjxenjoy/slash.git"
+  },
+  "keywords": [],
+  "author": "Jinxin Hu <hjxenjoy@gmail.com> (https://hujin.xin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjxenjoy/slash/issues"
+  },
+  "homepage": "https://github.com/hjxenjoy/slash#readme"
+}
